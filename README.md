@@ -116,9 +116,11 @@ data class Sharvari(
 
 | 🗂️ Project | 📝 Description | 🔧 Stack |
 |---|---|---|
-| 📊 **TX Data Center Dashboard** | Mapped 155 data center properties across TX using CoreLogic tax roll data — spatial clustering & Tableau dashboard | `SQL Server` `Tableau` `Python` |
-| 🎧 **Audapt — AI Audiobook Platform** | AI-driven audiobook startup with cultural adaptation, full business model & ML implementation roadmap | `AI Strategy` `NLP` `Product` |
-| 🤝 **BVFB Data Standardization** | Unified intake data from 90+ community partners into a single schema for Apricot database integration | `Excel` `Data Modeling` `Nonprofit` |
+| 📉 **[Predicting Customer Churn — Telecom](https://github.com/SharvariMhatre/Stat650--Predicting-Customer-Churn-in-Telecommunications)** | Statistical analysis on 7,043 telecom subscribers to identify churn drivers. Found churned users pay **$13.18 more/month** (p<0.001) and tenure explains **68.3% of billing variance**. Includes 23-page report + 13 visualizations. | `Python` `SciPy` `pandas` `seaborn` `Jupyter` |
+| 🍽️ **[Restaurant Recommendation Analysis — Midterm](https://github.com/SharvariMhatre/STAT_650_Midterm)** | Exploratory data analysis on a multi-table restaurant dataset (cuisine, payments, parking, user profiles). Merged 8 CSVs into a clean master dataset for recommendation modeling. | `Python` `pandas` `Matplotlib` `Jupyter` |
+| 🚌 **[Bus Booking System](https://github.com/SharvariMhatre/Bus-booking-system-application)** | Java-based bus reservation application — seat booking, route management, and ticket generation. | `Java` |
+| 🧠 **[Interview Intelligence System](https://github.com/SharvariMhatre/Interview-Intelligence-System)** | AI-assisted interview prep tool — forked by 2 others. | `JavaScript` |
+| 🔗 **[A2A Connect Sample](https://github.com/SharvariMhatre/A2AConnectSample)** | Agent-to-agent communication sample built with TypeScript. | `TypeScript` |
 
 </div>
 
